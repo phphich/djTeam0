@@ -7,4 +7,4 @@ def abcd(request):
 
 
 def MasterSample(request):
-    return HttpResponse("Master 55555555  ")
+    return HttpResponse("Master 55555555    ")
